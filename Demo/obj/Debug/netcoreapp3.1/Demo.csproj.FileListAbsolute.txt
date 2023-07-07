@@ -1,0 +1,11 @@
+D:\RFP_291\Project\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+D:\RFP_291\Project\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+D:\RFP_291\Project\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+D:\RFP_291\Project\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+D:\RFP_291\Project\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+D:\RFP_291\Project\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+D:\RFP_291\Project\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+D:\RFP_291\Project\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+D:\RFP_291\Project\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+D:\RFP_291\Project\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+D:\RFP_291\Project\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
